@@ -1,24 +1,18 @@
 ### Hey I'm Praveen 
 >**I'm a mobile/web developer**
 
-### Worked in  :
-- <img title="a title" alt="Alt text" width=15 src="https://cdn.discordapp.com/emojis/427942750277730305.webp?size=56&quality=lossless"> Flutter & Firebase
-- <img src="https://external-content.duckduckgo.com/ip3/expressjs.com.ico" width=10> Express JS
 
+## 🔭 I'm Intrested in
 
-## 🔭 I'm currently working on
-
-- My old projects
-- Instagram Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- Flutter
+- Node.js
+- Implementing API
+- Developing UI 
 
 ## 🌱 I'm currently learning
 
-- Flutter
-- Firebase
-- Implementing API
-- Developing UI 
+- <img title="a title" alt="Alt text" width=15 src="https://cdn.discordapp.com/emojis/427942750277730305.webp?size=56&quality=lossless"> Flutter & Firebase
+- <img src="https://external-content.duckduckgo.com/ip3/expressjs.com.ico" width=10> Express JS
 
 ### 🤝 Connect with me:
 
